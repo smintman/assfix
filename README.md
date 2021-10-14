@@ -1,4 +1,4 @@
-# Assassins creed 2 deluxe and botherhood deluxe helper scripts
+# Steam Proton Assassins creed 2 deluxe and botherhood deluxe helper scripts
 
 # About
 
