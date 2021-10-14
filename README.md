@@ -8,7 +8,7 @@ These scripts help get Assassins creed 2 and brotherhood working with steam, fix
 1. The second fix downloads an updated version of the ubisoft connect client and installs this into the proton prefix.
 1. Also creates a symbolic link from the games downloaded installation to to the proton prefix. As something is failing in the existing set up to find the game?
 
-After running the scripts the game should work ok. Note: helps to make sure steam is completely closed before you start.
+After running the scripts the game should work ok. **Note: helps to make sure steam is completely closed before you start.**
 
 # Prerequisites
 
