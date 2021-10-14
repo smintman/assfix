@@ -4,7 +4,7 @@
 
 These scripts help get Assassins creed 2 and brotherhood working with steam, fixes two things 
 
-1. The CD key issue, the script will download and install a fixed appcache.vdf this uses the fixed files from @pdfrod github (Thanks go to him!)
+1. The CD key issue, the script will download and install a fixed appcache.vdf this uses the fixed files from [https://gist.github.com/pdfrod](https://gist.github.com/pdfrod) github (Thanks go to him!)
 1. The second fix downloads an updated version of the ubisoft connect client and installs this into the proton prefix.
 1. Also creates a symbolic link from the games downloaded installation to to the proton prefix. As something is failing in the existing set up to find the game?
 
