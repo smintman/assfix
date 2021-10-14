@@ -1,4 +1,4 @@
-# Assassing creed 2 deluxe and botherhood deluxe helper scripts
+# Assassins creed 2 deluxe and botherhood deluxe helper scripts
 
 # About
 
