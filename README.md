@@ -15,6 +15,7 @@ After running the scripts the game should work ok. **Note: helps to make sure st
 1. The games, Download either assassins creed 2 deluxe or assassins creed brotherhood deluxe from steam in the normal way.
 2. git and wget needs to be installed
 3. The scrips assume you are using proton 6.3 versions, update the script if you want to use a different version (I may make this selectable in the future)
+4. I'm unsure about different paths to where you might have steam installed so you may need to update the paths if your steam is installed in a different location.
 
 ## How to install
 
