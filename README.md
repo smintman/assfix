@@ -26,7 +26,7 @@ After running the scripts the game should work ok. Note: helps to make sure stea
 git clone https://github.com/smintman/assfix
 ```
 
-6. CD into the bew directory and run the following to give the scripts execute permissons
+6. CD into the assfix directory and run the following to give the scripts execute permissons
 
 ```
 chmod +x assfix-ass2-cdkey.sh assfix-ass2-uplay.sh assfix-assbro-cdkey.sh assfix-assbro-uplay.sh
@@ -36,7 +36,6 @@ chmod +x assfix-ass2-cdkey.sh assfix-ass2-uplay.sh assfix-assbro-cdkey.sh assfix
 
 ```
 ./assfix-ass2-cdkey.sh
-
 ```
 This will download the cd key fix and copy to the right place then tell steam to run assassins creed 2. Note this will fail with the following error message, this is to be expected. We need to have the game run once to create the prefix for it.
 
