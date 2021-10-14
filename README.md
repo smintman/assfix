@@ -18,23 +18,21 @@ After running the scripts the game should work ok. Note: helps to make sure stea
 
 # How to use the scripts
 
-1. Download either assassins creed 2 deluxe or assassins creed brotherhood deluxe from steam in the normal way.
+4. Download either assassins creed 2 deluxe or assassins creed brotherhood deluxe from steam in the normal way.
 
-1. Clone the script to your machine, CD to the directory you want them to be installed to, the run the following command from the terminal
+5. Clone the script to your machine, CD to the directory you want them to be installed to, the run the following command from the terminal
 
 ```
 git clone https://github.com/smintman/assfix
-
 ```
 
-1. CD into the bew directory and run the following to give the scripts execute permissons
+6. CD into the bew directory and run the following to give the scripts execute permissons
 
 ```
 chmod +x assfix-ass2-cdkey.sh assfix-ass2-uplay.sh assfix-assbro-cdkey.sh assfix-assbro-uplay.sh
-
 ```
 
-1. Run the cdkey.sh script for the game you want to fix e.g for assassins creed 2..
+7. Run the cdkey.sh script for the game you want to fix e.g for assassins creed 2..
 
 ```
 ./assfix-ass2-cdkey.sh
@@ -46,18 +44,17 @@ This will download the cd key fix and copy to the right place then tell steam to
 > Ubisoft Game launcher:
 > Error code 1.
 
-  1. Quit steam completely i.e make sure it does not appear in any system tray.
+8. Quit steam completely i.e make sure it does not appear in any system tray.
   
-  1. Run the second script 
+9. Run the second script 
   
   ```
   ./assfix-ass2-uplay.sh
-  
   ```
 
   This will download ubisoftconnect from their site, and install into the prefix for the game silently.
   
-  1. Once complete the script will try and open the game in steam again, Hopefully you should see the uplay screens, follow the set up from there as usual.. and with any luck the game will start.
+ 10. Once complete the script will try and open the game in steam again, Hopefully you should see the uplay screens, follow the set up from there as usual.. and with any luck the game will start.
   
   Hopefully the game will just run normally from steam the next time you try it!? Happy Assassinations!
   
