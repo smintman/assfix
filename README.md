@@ -10,7 +10,7 @@ These script help get Assassins creed 2 and brotherhood working with steam, fixe
 
 After running the scripts the game should work ok. Note: helps to make sure steam is completely closed before you start.
 
-#Prerequisites
+# Prerequisites
 
 1. The games
 2. wget needs to be installed
