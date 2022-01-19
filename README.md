@@ -1,4 +1,4 @@
-# Steam Proton Assassins creed 2 deluxe and botherhood deluxe helper scripts
+# Steam Proton Assassins creed 2 deluxe and brotherhood deluxe helper scripts
 
 # Version 2
 
@@ -23,8 +23,7 @@ After running the scripts the game should work ok. **Note: helps to make sure st
 # Prerequisites
 
 1. The games, Download either assassins creed 2 deluxe or assassins creed brotherhood deluxe from steam in the normal way.
-2. The scrips assume you are using proton 6.3 versions, update the script if you want to use a different version (I may make this selectable in the future)
-3. I'm unsure about different paths to where you might have steam installed so you may need to update the paths if your steam is installed in a different location.
+2. I'm unsure about different paths to where you might have steam installed so you may need to update the paths if your steam is installed in a different location.
 
 ## How to install
 
