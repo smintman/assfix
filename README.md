@@ -1,5 +1,9 @@
 # Steam Proton Assassins creed 2 deluxe and brotherhood deluxe helper scripts
 
+#UPDATE!!!  31-03-2022
+
+Valve might have fixed the issue, try and update your client (might need beta version) and give it another go?!? hopefully this issue is fixed and we no longer need this or other scripts... fingers crossed!
+
 # Version 2
 
 Complete rewrite heres the main changes
